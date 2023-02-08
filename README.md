@@ -27,7 +27,6 @@ the others were based on Node.js and express.js
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -66,16 +65,11 @@ the others were based on Node.js and express.js
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Connect with me  
-  
   
 
 <br/>  
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=jihyang1106&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=jihyang1106&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />  
 
