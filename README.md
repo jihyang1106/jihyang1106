@@ -1,5 +1,5 @@
 
-### <div align="center">Hello I'm daisy who want to be a junior backend developer 😀</div>  
+### <div align="center">Hi, I'm jihyang who want to be a junior backend developer 😀</div>  
   
 
 - 🔭 here's my portfolio [Check It Out! ](https://purple-gemini-e6a.notion.site/LEE-JIHYANG-2c8c600171d3480bbd4efb3bb6727636)  
