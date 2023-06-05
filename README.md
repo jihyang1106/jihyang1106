@@ -5,7 +5,7 @@
 - 🔭 here's my portfolio [Check It Out! ](https://purple-gemini-e6a.notion.site/LEE-JIHYANG-2c8c600171d3480bbd4efb3bb6727636)  
   
 
-- 🌱 I’m currently learning Node.js and Java and I'm interested in DB(Mysql)  
+- 🌱 I’m currently learning Java, Node.js and I'm interested in DB(Mysql)  
   
 
 - ❓  I did 4 projects. 2 projects were based on Java and spring boot 
