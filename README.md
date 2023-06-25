@@ -1,18 +1,10 @@
 
 ### <div align="center">Hi, I'm jihyang who want to be a junior backend developer 😀</div>  
-  
 
-- 🔭 here's my portfolio [Check It Out! ](https://purple-gemini-e6a.notion.site/LEE-JIHYANG-2c8c600171d3480bbd4efb3bb6727636)  
-  
-
-- 🌱 I’m currently learning Java, Node.js and I'm interested in DB(Mysql)  
-  
-
-- ❓  I did 4 projects. 2 projects were based on Java and spring boot 
-the others were based on Node.js and express.js  
-  
-
-- ⚡what you know about me : I'm a bubbly person   
+- 🌱I have experience in developing using Java, Node.js, Spring Boot, and Express.js.
+- ❓Developing while constantly considering what is good code.
+- 📖 I understand the importance of documentation so after studying, I post what I've learned on my blog.
+- ⚡what you know about me : I'm a bubbly person and who enjoy putting my plans into action
   
 
 <br/>  
